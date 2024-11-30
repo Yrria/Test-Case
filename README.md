@@ -30,3 +30,24 @@ Test Case for EnrollEase: A Smart Web-Based Enrollment System for Imus National 
 ### NOTE (FOR CONTRIBUTORS)
 * Always back up your files before pulling from the repository.
     * To prevent lost of your new updates.
+
+## Authors
+Contributors
+* [Yrria](https://github.com/Yrria)
+* [DH-Nyel](https://github.com/karinaonly)
+* [Nix](https://github.com/6nix)
+* [Drei](https://github.com/MarcAndrei00)
+
+## Purpose
+This is for educational purposes only. It is used to fulfill the requirements for a course subject.
+<br/>
+ITEC 75A - SYSTEM INTEGRATION AND ARCHITECTURE 1.
+
+## Acknowledgments
+Credits for the system owner for their capston Project
+<br/>
+Capstone Project of BSIT - 4A
+<br/><br/>
+System
+<br/>
+EnrollEase: A Smart Web-Based Enrollment System for Imus National High School system
