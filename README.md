@@ -41,7 +41,7 @@ Contributors
 ## Purpose
 This is for educational purposes only. It is used to fulfill the requirements for a course subject.
 <br/>
-ITEC 75A - SYSTEM INTEGRATION AND ARCHITECTURE 1.
+ITEC 85A - INFORMATION ASSURANCE AND SECURITY 1.
 
 ## Acknowledgments
 Credits for the system owner for their capston Project
